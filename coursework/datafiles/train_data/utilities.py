@@ -1,8 +1,10 @@
 import os
 import sys
-import pandas as pd
+
 import numpy as np
+import pandas as pd
 from matplotlib import pyplot as plt
+
 
 def load_points_from_file(filename):
     """Loads 2d points from a csv called filename
@@ -31,3 +33,6 @@ def view_data_segments(xs, ys):
     plt.set_cmap('Dark2')
     plt.scatter(xs, ys, c=colour)
     plt.show()
+
+
+
