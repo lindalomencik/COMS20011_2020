@@ -152,3 +152,9 @@ I have printed the Notebooks as pdfs.  Note that this really doesn't work well, 
 * [30/04](https://web.microsoftstream.com/video/6423cca2-417f-4a37-b7b9-f16ba8b5bbf3)
 * [07/05]
 * [10/05]
+
+#### Past exam papers
+Last year's exams are very relevant, (we've included them below), but SPS exams from previous years are so different that they won't be useful (we're unlikely to be able to answer questions on them).
+
+* [original paper](exams/2020_original.pdf)
+* [resit paper](exams/2020_resit.pdf)
